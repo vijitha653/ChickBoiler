@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>🔥 ChickBoiler is Live! 🔥</Text>
+      <Text> ChickBoiler</Text>
     </View>
   );
 }
